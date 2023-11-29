@@ -1,4 +1,4 @@
-# Challenge Three - Password Generator
+# Challenge 3 - Password Generator
 
 ## Description:
 The motivation for this website was to create a semi-personalized password generator using JavaScript. This generator will give a series of prompts for the user to chose from like the number of characters (8-128), special characters or not, and lower/uppercase characters or not. It will then generate a randomized and secure password for the user to copy.
